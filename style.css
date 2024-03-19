@@ -45,3 +45,8 @@ img {
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   color: rgba(39, 34, 34, 0.534);
 }
+@media (max-width: 600px) {
+  .conteudo-bg {
+    max-width: 240px;
+  }
+}
